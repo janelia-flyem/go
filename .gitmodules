@@ -1,0 +1,3 @@
+[submodule "levigo"]
+	path = levigo
+	url = http://github.com/jmhodges/levigo
