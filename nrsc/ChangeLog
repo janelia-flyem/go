@@ -1,3 +1,9 @@
+2013-09-14 version 0.5.0
+    * "nrsc" is go gettable
+
+2013-07-25 version 0.4.1
+    * Look for executable in path (thanks Kendell Fabricius)
+
 2013-06-05 version 0.4.0
     * Added Mask (closing issue #1)
 
