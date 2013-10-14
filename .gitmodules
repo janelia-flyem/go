@@ -4,3 +4,6 @@
 [submodule "go-couchbase"]
 	path = go-couchbase
 	url = http://github.com/couchbaselabs/go-couchbase.git
+[submodule "resize"]
+	path = resize
+	url = http://github.com/nfnt/resize.git
