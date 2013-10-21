@@ -7,3 +7,6 @@
 [submodule "resize"]
 	path = resize
 	url = http://github.com/nfnt/resize.git
+[submodule "gomdb"]
+	path = gomdb
+	url = http://github.com/szferi/gomdb.git
