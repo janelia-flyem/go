@@ -6,7 +6,7 @@
 	url = http://github.com/couchbaselabs/go-couchbase.git
 [submodule "resize"]
 	path = resize
-	url = http://github.com/nfnt/resize.git
+	url = http://github.com/DocSavage/resize.git
 [submodule "gomdb"]
 	path = gomdb
 	url = http://github.com/szferi/gomdb.git
