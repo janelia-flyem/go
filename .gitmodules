@@ -10,3 +10,6 @@
 [submodule "gomdb"]
 	path = gomdb
 	url = http://github.com/szferi/gomdb.git
+[submodule "hyperleveldb"]
+	path = hyperleveldb
+	url = http://github.com/janelia-flyem/hyperleveldb.git
