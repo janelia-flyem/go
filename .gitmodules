@@ -13,3 +13,6 @@
 [submodule "hyperleveldb"]
 	path = hyperleveldb
 	url = http://github.com/janelia-flyem/hyperleveldb.git
+[submodule "goexif"]
+	path = goexif
+	url = http://github.com/rwcarlsen/goexif.git
