@@ -16,3 +16,6 @@
 [submodule "go-humanize"]
 	path = go-humanize
 	url = https://github.com/dustin/go-humanize.git
+[submodule "go-hdf5"]
+	path = go-hdf5
+	url = https://github.com/kisielk/go-hdf5.git
