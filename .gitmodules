@@ -1,15 +1,15 @@
 [submodule "levigo"]
 	path = levigo
-	url = https//github.com/jmhodges/levigo
+	url = https://github.com/jmhodges/levigo
 [submodule "resize"]
 	path = resize
-	url = https//github.com/DocSavage/resize.git
+	url = https://github.com/DocSavage/resize.git
 [submodule "gomdb"]
 	path = gomdb
-	url = https//github.com/szferi/gomdb.git
+	url = https://github.com/szferi/gomdb.git
 [submodule "goexif"]
 	path = goexif
-	url = https//github.com/rwcarlsen/goexif.git
+	url = https://github.com/rwcarlsen/goexif.git
 [submodule "go-humanize"]
 	path = go-humanize
 	url = https://github.com/dustin/go-humanize.git
