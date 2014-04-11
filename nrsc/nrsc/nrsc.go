@@ -46,7 +46,7 @@ func mkzip(root, zip string, zipArgs []string) error {
 	}
 	defer os.Chdir(pwd)
 
-	args := []string{"-r", zip, "."}
+	args := []string{"-r", zip, ".", "-x", `.*`}
 	args = append(args, zipArgs...)
 
 	cmd := exec.Command("zip", args...)
