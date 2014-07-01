@@ -16,3 +16,6 @@
 [submodule "golz4"]
 	path = golz4
 	url = https://github.com/cloudflare/golz4.git
+[submodule "goji"]
+	path = goji
+	url = https://github.com/janelia-flyem/goji.git
