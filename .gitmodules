@@ -19,3 +19,6 @@
 [submodule "goji"]
 	path = goji
 	url = https://github.com/janelia-flyem/goji.git
+[submodule "go-nanomsg"]
+	path = go-nanomsg
+	url = https://github.com/op/go-nanomsg.git
