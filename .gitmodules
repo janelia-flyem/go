@@ -22,3 +22,6 @@
 [submodule "go-nanomsg"]
 	path = go-nanomsg
 	url = https://github.com/op/go-nanomsg.git
+[submodule "lumberjack"]
+	path = lumberjack
+	url = https://github.com/natefinch/lumberjack.git
