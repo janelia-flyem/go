@@ -25,3 +25,6 @@
 [submodule "lumberjack"]
 	path = lumberjack
 	url = https://github.com/natefinch/lumberjack.git
+[submodule "toml"]
+	path = toml
+	url = https://github.com/BurntSushi/toml
