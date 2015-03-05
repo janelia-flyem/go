@@ -28,3 +28,6 @@
 [submodule "toml"]
 	path = toml
 	url = https://github.com/BurntSushi/toml
+[submodule "lru"]
+	path = lru
+	url = https://github.com/hashicorp/golang-lru.git
