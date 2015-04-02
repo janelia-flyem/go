@@ -31,3 +31,6 @@
 [submodule "lru"]
 	path = lru
 	url = https://github.com/hashicorp/golang-lru.git
+[submodule "uuid"]
+	path = uuid
+	url = https://github.com/twinj/uuid.git
