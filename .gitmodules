@@ -34,3 +34,6 @@
 [submodule "uuid"]
 	path = uuid
 	url = https://github.com/twinj/uuid.git
+[submodule "murmur3"]
+	path = murmur3
+	url = https://github.com/spaolacci/murmur3.git
