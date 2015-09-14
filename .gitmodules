@@ -43,3 +43,9 @@
 [submodule "cron"]
 	path = cron
 	url = https://github.com/robfig/cron.git
+[submodule "semver"]
+	path = semver
+	url = https://github.com/blang/semver.git
+[submodule "msgp"]
+	path = msgp
+	url = https://github.com/tinylib/msgp.git
