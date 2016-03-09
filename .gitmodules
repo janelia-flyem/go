@@ -49,6 +49,3 @@
 [submodule "msgp"]
 	path = msgp
 	url = https://github.com/tinylib/msgp.git
-[submodule "snappy"]
-	path = snappy
-	url = https://github.com/golang/snappy.git
