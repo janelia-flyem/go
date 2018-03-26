@@ -49,3 +49,6 @@
 [submodule "msgp"]
 	path = msgp
 	url = https://github.com/tinylib/msgp.git
+[submodule "lz4"]
+	path = lz4
+	url = https://github.com/pierrec/lz4
