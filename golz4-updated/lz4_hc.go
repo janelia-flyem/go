@@ -1,6 +1,6 @@
 package lz4
 
-// #cgo CFLAGS: -O3
+// #cgo CFLAGS: -O3 -Wno-deprecated-declarations
 // #include "src/lz4hc.h"
 // #include "src/lz4hc.c"
 import "C"
