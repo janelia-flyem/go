@@ -4,9 +4,6 @@
 [submodule "resize"]
 	path = resize
 	url = https://github.com/DocSavage/resize.git
-[submodule "gomdb"]
-	path = gomdb
-	url = https://github.com/szferi/gomdb.git
 [submodule "goexif"]
 	path = goexif
 	url = https://github.com/rwcarlsen/goexif.git
@@ -16,9 +13,6 @@
 [submodule "goji"]
 	path = goji
 	url = https://github.com/janelia-flyem/goji.git
-[submodule "go-nanomsg"]
-	path = go-nanomsg
-	url = https://github.com/op/go-nanomsg.git
 [submodule "lumberjack"]
 	path = lumberjack
 	url = https://github.com/natefinch/lumberjack.git
