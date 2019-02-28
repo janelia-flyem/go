@@ -1,3 +1,5 @@
+[![GoDoc](https://godoc.org/github.com/janelia-flyem/go/basholeveldb?status.svg)](https://godoc.org/github.com/janelia-flyem/go/basholeveldb)
+
 # levigo
 
 levigo is a Go wrapper for LevelDB.
