@@ -9,10 +9,11 @@ import (
 	"unsafe"
 )
 
+// IteratorError wraps general internal LevelDB iterator errors for user consumption.
 type IteratorError string
 
 func (e IteratorError) Error() string {
-	return string(e)
+	return "levigo: " + string(e)
 }
 
 // Iterator is a read-only iterator through a LevelDB database. It provides a
@@ -34,8 +35,7 @@ func (e IteratorError) Error() string {
 //
 // 	it := db.NewIterator(readOpts)
 // 	defer it.Close()
-// 	it.Seek(mykey)
-// 	for it = it; it.Valid(); it.Next() {
+// 	for it.Seek(mykey); it.Valid(); it.Next() {
 // 		useKeyAndValue(it.Key(), it.Value())
 // 	}
 // 	if err := it.GetError() {

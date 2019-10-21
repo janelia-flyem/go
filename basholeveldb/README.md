@@ -1,3 +1,5 @@
+[![GoDoc](https://godoc.org/github.com/janelia-flyem/go/basholeveldb?status.svg)](https://godoc.org/github.com/janelia-flyem/go/basholeveldb)
+
 # levigo
 
 levigo is a Go wrapper for LevelDB.
@@ -13,7 +15,7 @@ You'll need the shared library build of
 [LevelDB](http://code.google.com/p/leveldb/) installed on your machine. The
 current LevelDB will build it by default.
 
-The minimum version of LevelDB required is currently 1.6. If you require the
+The minimum version of LevelDB required is currently 1.7. If you require the
 use of an older version of LevelDB, see the [fork of levigo for LevelDB
 1.4](https://github.com/jmhodges/levigo_leveldb_1.4). Prefer putting in the
 work to be up to date as LevelDB moves very quickly.
